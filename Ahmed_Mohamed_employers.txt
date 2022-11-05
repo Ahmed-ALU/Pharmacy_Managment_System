@@ -1,0 +1,22 @@
+#ID#1
+Mohamed Ahmed
+30201012671431
+cashier
+male
+Mohame6705
+
+#ID#2
+Abraham Direes
+439828907772
+hr
+male
+Abraha7878
+
+#ID#3
+Binusha Balachandran
+110294839321
+manager
+female
+Binush2060
+
+

@@ -1,0 +1,24 @@
+#ID#1
+nat b
+3000
+3500
+20
+
+#ID#2
+feldene layotabs
+6000
+7500
+20
+
+#ID#3
+paracytemol
+500
+1000
+17
+
+#ID#4
+curamol
+700
+1100
+20
+

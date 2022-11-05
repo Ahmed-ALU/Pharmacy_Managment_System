@@ -1,0 +1,23 @@
+#ID#1
+Myra Luguiri
+31843589735
+Diabetes
+female
+19
+
+#ID#2
+Samuel Musenza
+725349857932
+None
+male
+21
+
+#ID#3
+Ednah Aktoh
+29238798765
+None
+female
+22
+
+
+
